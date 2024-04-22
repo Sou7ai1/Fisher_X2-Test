@@ -36,10 +36,10 @@ Given the contingency table Table 1:
 
 Table
 
-            Click YES	Click NO	Row sum
-Sample A       (a)	      (b)	     (a+b)
-Sample B	   (c)	      (d)	     (c+d)
-Sum	          (a+c)	     (b+d)	      (N)
+                Click YES	Click NO	Row sum
+    Sample A       (a)	      (b)	     (a+b)
+    Sample B	   (c)	      (d)	     (c+d)
+    Sum	          (a+c)	     (b+d)	      (N)
 
 We want to compute the probability that the table with results will have the same values as in Table 1 for given values of (a), (b), (c), and (d).
 
