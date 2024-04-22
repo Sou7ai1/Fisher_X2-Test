@@ -1,4 +1,4 @@
-Homework 1: Statistical Analysis with A/B Testing
+##Homework 1: Statistical Analysis with A/B Testing
 
 
 This Jupyter notebook provides a comprehensive guide to A/B testing, Fisher’s exact test, and the chi-squared test within the context of statistical analysis. It is designed to help you understand the process of A/B testing, from formulating a hypothesis to analyzing data and making informed decisions.
