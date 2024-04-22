@@ -16,7 +16,7 @@ This Jupyter notebook provides a comprehensive guide to A/B testing, Fisher’s 
 
 ## Getting Started
 
-To get started, open the `homework1.ipynb` notebook in Jupyter and follow the instructions provided. The notebook contains detailed explanations and Python code to guide you through the statistical analysis process.
+To get started, open the `Fisher_X2.ipynb` notebook in Jupyter and follow the instructions provided. The notebook contains detailed explanations and Python code to guide you through the statistical analysis process.
 
 ## Prerequisites
 
